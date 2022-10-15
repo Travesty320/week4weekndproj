@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "peanut.db.elephantsql.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "cardealership",
+            "database": "spacieyi",
+            "username": "spacieyi",
+            "password": "1jqaGM-kkpVD4hEdgBWkDILYt_HDfuH_"
+        }
+    ]
+}
